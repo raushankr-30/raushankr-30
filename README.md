@@ -72,6 +72,17 @@
 
 ---
 
+---
+## 🏅 Achievements & Badges
+
+- ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)
+- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285F4?logo=googlecloud&logoColor=white)
+- 🏆 Kaggle: 1 Gold, 2 Silver
+- 🧩 LeetCode: 500+ problems solved
+- 🎉 Hacktoberfest Finisher 2024
+
+---
+
 ## 🌍 Let's Connect
 
 <p>
