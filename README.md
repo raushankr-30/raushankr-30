@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raushankr-30
-- 👀 I’m interested in machine learning 
+- 👀 I’m interested in artificial intelligence & machine learning 
 - 🌱 I’m currently learning reinforcement learning 
  
 
