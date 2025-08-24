@@ -8,12 +8,6 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushankr-30&label=Profile%20Views&color=ff69b4&style=plastic" alt="views" />
-</p>
-
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -23,7 +17,9 @@
 - 📱 Exploring **App Development** (Flutter / React Native)
 - 📈 Always learning & building cool projects
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raushankr-30&label=Profile%20Views&color=ff69b4&style=plastic" alt="views" />
+</p>
 ---
 
 ## 🔧 Tech Stack
