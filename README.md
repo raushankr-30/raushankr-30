@@ -17,9 +17,10 @@
 - 📱 Exploring **App Development** (Flutter / React Native)
 - 📈 Always learning & building cool projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raushankr-30&label=Profile%20Views&color=ff69b4&style=plastic" alt="views" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=raushankr-30&label=Profile%20Views&color=0e75b6&style=flat" alt="raushankr-30" /> 
 </p>
+
 ---
 
 ## 🔧 Tech Stack
