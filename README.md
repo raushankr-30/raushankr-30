@@ -70,6 +70,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushankr-30&theme=tokyonight" alt="streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankr-30&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushankr-30&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
