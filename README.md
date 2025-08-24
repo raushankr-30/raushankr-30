@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm RAUSHAN KUMAR</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Explorer+🤖;Full+Stack+%26+App+Developer;Always+Learning+%26+Building" alt="Typing Animation" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Turning+☕+into+Code;AI+%26+ML+Enthusiast;Building+Web+%26+Mobile+Apps;Always+Learning+%26+Exploring" alt="Typing Animation" />
+  </p>
 </h1>
 
 ---
