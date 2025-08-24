@@ -7,7 +7,10 @@
   </p>
 </h1>
 
-![Visitor Count](https://profile-counter.glitch.me/raushankr-30/count.svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raushankr-30&label=Profile%20Views&color=ff69b4&style=plastic" alt="views" />
+</p>
 
 
 
