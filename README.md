@@ -1,7 +1,9 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm RAUSHAN KUMAR</h1>
-<h3 align="center"> CSE Undergrad |  AI/ML Enthusiast |  Web & Mobile Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Explorer+🤖;Full+Stack+%26+App+Developer;Always+Learning+%26+Building" alt="Typing Animation" />
+</h1>
 
 ---
 
