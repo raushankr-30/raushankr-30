@@ -15,7 +15,7 @@
 - 🌐 Skilled in **Full-Stack Web Development**
 - 📱 Exploring **App Development** (Flutter / React Native)
 - 📈 Always learning & building cool projects
-- ✨ Fun fact: I love to turn coffee ☕ into code
+
 
 ---
 
