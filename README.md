@@ -86,13 +86,13 @@ I enjoy designing scalable architectures, developer tools, automation systems, i
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project1&theme=github_dark&hide_border=true)](https://github.com/your-username/Project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project1&theme=github_dark&hide_border=true)](https://github.com/raushankr-30/Project1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project2&theme=github_dark&hide_border=true)](https://github.com/your-username/Project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project2&theme=github_dark&hide_border=true)](https://github.com/raushankr-30/Project2)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project3&theme=github_dark&hide_border=true)](https://github.com/your-username/Project3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project3&theme=github_dark&hide_border=true)](https://github.com/raushankr-30/Project3)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project4&theme=github_dark&hide_border=true)](https://github.com/your-username/Project4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project4&theme=github_dark&hide_border=true)](https://github.com/raushankr-30/Project4)
 
 </div>
 
@@ -115,9 +115,9 @@ I enjoy designing scalable architectures, developer tools, automation systems, i
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raushankr-30&show_icons=true&hide_border=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushankr-30&layout=compact&hide_border=true&theme=github_dark"/>
 
 </div>
 
@@ -125,7 +125,7 @@ I enjoy designing scalable architectures, developer tools, automation systems, i
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=raushankr-30&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -133,7 +133,7 @@ I enjoy designing scalable architectures, developer tools, automation systems, i
 
 # Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark&hide_border=true)](https://github.com/your-username)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raushankr-30&theme=github-dark&hide_border=true)](https://github.com/raushankr-30)
 
 ---
 
