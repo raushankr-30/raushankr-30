@@ -1,0 +1,24 @@
+name: SVG quality
+
+on:
+  pull_request:
+    paths: ["assets/**/*.svg"]
+  push:
+    paths: ["assets/**/*.svg"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify SVG accessibility metadata and asset budget
+        shell: bash
+        run: |
+          set -euo pipefail
+          while IFS= read -r file; do
+            grep -q '<title' "$file"
+            grep -q '<desc' "$file"
+            grep -q 'viewBox=' "$file"
+          done < <(find assets -name '*.svg' -print)
+          size=$(find assets -name '*.svg' -printf '%s\n' | awk '{sum += $1} END {print sum + 0}')
+          test "$size" -lt 768000
