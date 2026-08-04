@@ -2,30 +2,30 @@
   <img src="assets/hero.svg" width="100%" alt="Raushan Kumar — product engineer building intelligent systems and dependable software platforms." />
 </p>
 
-<p align="center">
-  <a href="#identity-dashboard">Identity</a> · <a href="#featured-projects">Selected work</a> · <a href="#architecture-philosophy">Architecture</a> · <a href="#open-source">Open source</a> · <a href="#contact">Contact</a>
-</p>
+## Pinned Repositories
 
-## Identity Dashboard
-
-<img src="assets/dashboard.svg" width="100%" alt="Identity dashboard: mission, current focus, engineering principles, domains, and current build." />
-
-## Featured Projects
-
-<img src="assets/projects.svg" width="100%" alt="Featured projects: RoadGuardian AI, CareerPilot AI, and Customer Segmentation K-Means." />
+GitHub’s pinned repositories remain the source of truth for the work. The project notes below provide context; the repository, its history, issues, pull requests, and language breakdown provide the evidence.
 
 <p align="center">
-  <a href="roadguardian-ai">RoadGuardian AI</a> · <a href="careerpilot-ai">CareerPilot AI</a> · <a href="customer-segmentation-kmeans">Customer Segmentation</a>
+  <a href="roadguardian-ai">RoadGuardian AI</a> · <a href="careerpilot-ai">CareerPilot AI</a> · <a href="customer-segmentation-kmeans">Customer Segmentation</a> · <a href="task-management-web-app">Task Management System</a>
 </p>
 
-## Engineering Metrics
+## Engineering Signals
 
-| Signal | Evidence |
+<img src="assets/dashboard.svg" width="100%" alt="Engineering signals showing current focus and how native GitHub surfaces fit the work." />
+
+GitHub’s contribution graph, repository activity, commits, stars, forks, pull requests, and language data remain visible on the profile. They are not recreated here: GitHub is the canonical record.
+
+| GitHub signal | Repository evidence |
 | --- | --- |
 | System boundaries | RoadGuardian separates perception, understanding, risk, decision, video, training, and dataset concerns. |
 | Product scope | CareerPilot starts with the candidate workflow: identity, progress tracking, and a dashboard. |
 | Validation posture | RoadGuardian includes phase validation, configuration checks, and focused tests. |
 | Learning practice | The Algorithmic Recognition Atlas records observation, falsification, model selection, and time-control methods. |
+
+## Featured Projects
+
+<img src="assets/projects.svg" width="100%" alt="Featured projects: RoadGuardian AI, CareerPilot AI, and Customer Segmentation K-Means." />
 
 ## Technology Ecosystem
 
